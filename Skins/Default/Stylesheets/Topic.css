@@ -477,6 +477,47 @@ a.glossaryTerm
 	display: none;
 }
 
+.dropDown
+{
+	font-size: 24px;
+	color: #48525d;
+	margin-bottom: 20px;
+}
+
+.dropDownHotspot
+{
+	color: #48525d;
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	color: #48525d;
+	text-decoration: none;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	color: #48525d;
+	text-decoration: none;
+}
+
 .MCWebHelpFramesetLink a
 {
 	

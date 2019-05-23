@@ -141,6 +141,8 @@ MadCap|dropDown	/*Change the "mc-open-image" and "mc-closed-image" properties to
 {
 	mc-open-image: url('../Images/Assets/Icons/Arrows/arrow-down-gray.png');
 	mc-closed-image: url('../Images/Assets/Icons/Arrows/arrow-right-gray.png');
+	color: #f2d492;
+	font-size: 1.5em;
 }
 
 /*==Master Page Topic Layout==*/

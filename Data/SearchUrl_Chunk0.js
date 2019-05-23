@@ -1,1 +1,1 @@
-define({"../Content/About/About-Me.htm":0,"../Content/Accomplishments/Accomplishments.htm":2,"../Content/Contact.htm":1,"../Content/Samples/Sample-Q.htm":3,});
+define({"../Content/About/About-Me.htm":0,"../Content/Accomplishments/Accomplishments.htm":4,"../Content/Contact.htm":1,"../Content/Samples/Print.htm":2,"../Content/Samples/Sample-Landing.htm":3,"../Content/Samples/Sample-Q.htm":5,});

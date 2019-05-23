@@ -477,50 +477,6 @@ a.glossaryTerm
 	display: none;
 }
 
-.dropDownHotspot
-{
-	color: #7469b9;
-	text-decoration: none;
-}
-
-.dropDownHotspot:link
-{
-	color: #7469b9;
-	text-decoration: none;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.dropDownHead
-{
-	text-decoration: none;
-}
-
-.dropDownHead.dropDownHeadside-content
-{
-	font-size: 1.1em;
-	font-weight: bold;
-}
-
-.dropDownBody
-{
-	border-bottom: 1px solid #d3d3d3;
-}
-
 .MCWebHelpFramesetLink a
 {
 	

@@ -76,12 +76,17 @@
 		min-height: 100px;
 	}
 
-	.off-canvas-wrapper-inner .outer-row
+	.off-canvas-wrapper-inner .main-section > .outer-row
 	{
 		
 	}
 
 	.main-section > .outer-row
+	{
+		
+	}
+
+	.off-canvas-wrapper-inner .outer-row
 	{
 		
 	}

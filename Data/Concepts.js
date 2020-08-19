@@ -1,1 +1,1 @@
-define({});
+define({'Help Articles':[12],});
